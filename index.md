@@ -4,11 +4,11 @@
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
 
--[Desarrollo e implementación simulador de banco](/sample_page)
--[Implementación de algoritmo de optimización branch and bound](/pdf/sample_presentation.pdf)
--[Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
+- [Desarrollo e implementación simulador de banco](/sample_page)
+- [Implementación de algoritmo de optimización branch and bound](/pdf/sample_presentation.pdf)
+- [Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
 Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](http://example.com/)
--[Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan](http://example.com/)
+- [Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan](http://example.com/)
 <!---img src="images/dummy_thumbnail.jpg?raw=true"/>--->
 ---
 ### Proyectos de Deep Learning
