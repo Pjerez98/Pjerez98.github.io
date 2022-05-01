@@ -3,7 +3,7 @@
 ---
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
-[<img src="images/image1.jpeg?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
+[<img src="images/image1.jpeg?raw=true" width="500" height="300"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Desarrollo e implementación simulador de banco](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Simulador%20banco)
 - [Implementación de algoritmo de optimización branch and bound](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Branch%20and%20Bound)
@@ -14,7 +14,7 @@ Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](https://gi
 
 ---
 ### Proyectos de Deep Learning
-[<img src="images/ds.png?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
+[<img src="images/ds.png?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Implementación de un modelo NN (Neural Network) para la predicción de la
 enfermedad de Parkinson en pacientes](/pdf/t1.pdf)
@@ -30,7 +30,7 @@ Deep Learning Ensemble Model for Wildfire Susceptibility Mapping”](/pdf/c1.pdf
 
 ---
 ### Proyectos de investigación
-[<img src="images/inv.jpg?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Simulación%20Tsunami)
+[<img src="images/inv.jpg?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Simulación%20Tsunami)
 - [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
 evaluación de planes de evacuación pre-tsunami en la comuna de Antofagasta](/pdf/Presentacion MT Pablo Jerez.pdf)
 
