@@ -1,11 +1,11 @@
 title: Pablo Sebastián Jerez Agurto # your name (or website title) here
 logo: "/images/1646407536012.jpg?raw=true" # your photo (or logo) here
 description: > 
-  First description 
-  <br><br> Ingeniero Civil Industrial
-  Second description 
+  Ingeniero Civil Industrial
   <br><br>
   <a href="https://www.linkedin.com/in/pablo-jerez-agurto-2551821ab/">Visita mi perfil de Linkedin</a> 
+  <a href="/pdf/Pablo_Jerez_CV_.pdf">Revisa mi Curriculum Vitae (CV) </a> 
+  <a href="/pdf/MT_Pablo_Jerez_FINAL.pdf">Revisa mi Tesis de Pregrado (CV) </a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
