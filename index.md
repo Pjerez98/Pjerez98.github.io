@@ -3,7 +3,8 @@
 ---
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
-<img src="images/image1.jpg?raw=true"/>
+[<img src="images/image1.jpg?raw=true"/>]
+
 - [Desarrollo e implementación simulador de banco](/images/images1.jpg)
 - [Implementación de algoritmo de optimización branch and bound](/pdf/sample_presentation.pdf)
 - [Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
