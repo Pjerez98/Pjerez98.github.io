@@ -3,6 +3,7 @@
 ---
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
+
 [<img src="images/dummy_thumbnail.jpg.jpg?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Desarrollo e implementación simulador de banco](/images/images1.jpg)
