@@ -3,9 +3,9 @@
 ---
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
+<img src="images/images.jpg?raw=true"/> (https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Desarrollo e implementación simulador de banco](/images/images1.jpg)
-- <img src="images/images.jpg?raw=true"/> (https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 - [Implementación de algoritmo de optimización branch and bound](/pdf/sample_presentation.pdf)
 - [Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
 Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](http://example.com/)
