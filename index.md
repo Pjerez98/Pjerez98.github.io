@@ -10,6 +10,7 @@
 Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](http://example.com/)
 - [Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan](http://example.com/)
 <!---img src="images/dummy_thumbnail.jpg?raw=true"/>--->
+
 ---
 ### Proyectos de Deep Learning
 
