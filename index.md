@@ -5,26 +5,26 @@
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
 
 [Desarrollo e implementación simulador de banco](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Implementación de algoritmo de optimización branch and bound](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
 Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!---img src="images/dummy_thumbnail.jpg?raw=true"/>--->
 
 ### Proyectos de Deep Learning
 
-- [Implementación de un modelo NN (Neural Network) para la predicci on de la
+- [Implementación de un modelo NN (Neural Network) para la predicción de la
 enfermedad de Parkinson en pacientes](http://example.com/)
-- [Implementación de un modelo LSTM (Long Short Term Memory) en el  ́area de
+- [Implementación de un modelo LSTM (Long Short Term Memory) en el área de
 operaciones de control y fiscalización de la Armada de Chile](http://example.com/)
 - [Implementación de modelos Unet y ResUnet para la segmentación de imágenes
 y la detección de defectos en datasets asociados a la producción de acero y
