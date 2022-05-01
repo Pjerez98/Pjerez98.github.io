@@ -13,7 +13,7 @@ Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](https://gi
 <!---img src="images/dummy_thumbnail.jpg?raw=true"/>--->
 
 ---
-### Proyectos de Deep Learning
+### Proyectos de Data Science
 [<img src="images/ds.png?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Implementación de un modelo NN (Neural Network) para la predicción de la
