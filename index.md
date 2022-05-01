@@ -27,7 +27,7 @@ bilidad de incendios en la Región del Bío-Bío, en base al artículo científi
 Deep Learning Ensemble Model for Wildfire Susceptibility Mapping”](http://example.com/)
 
 ---
-### Proyectos de investigación de evaluación de planes de evacuación de tsunami horizontal y vertical para la comuna de Antofagasta
+### Proyectos de investigación
 
 - [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
 evaluación de planes de evacuación pre-tsunami en la comuna de Antofagastas](http://example.com/)
