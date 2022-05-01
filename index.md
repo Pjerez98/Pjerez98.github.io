@@ -6,10 +6,10 @@
 [<img src="images/images.jpg?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Desarrollo e implementación simulador de banco](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Simulador%20banco)
-- [Implementación de algoritmo de optimización branch and bound]((https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Branch%20and%20Bound))
+- [Implementación de algoritmo de optimización branch and bound](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Branch%20and%20Bound)
 - [Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
-Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos]((https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Metaheurísticas))
-- [Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan]((https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Kmeans%20y%20Dbscan))
+Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Metaheurísticas)
+- [Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Kmeans%20y%20Dbscan)
 <!---img src="images/dummy_thumbnail.jpg?raw=true"/>--->
 
 ---
