@@ -3,7 +3,7 @@
 ---
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
-[<img src="images/image1.jpg?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
+[<img src="images/image1.jpeg?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Desarrollo e implementación simulador de banco](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Simulador%20banco)
 - [Implementación de algoritmo de optimización branch and bound](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Branch%20and%20Bound)
