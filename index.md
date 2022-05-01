@@ -30,7 +30,7 @@ Deep Learning Ensemble Model for Wildfire Susceptibility Mapping”](http://exam
 ### Proyectos de investigación
 
 - [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
-evaluación de planes de evacuación pre-tsunami en la comuna de Antofagastas](http://example.com/)
+evaluación de planes de evacuación pre-tsunami en la comuna de Antofagasta](http://example.com/)
 
 
 ---
