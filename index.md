@@ -14,7 +14,7 @@ Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](https://gi
 
 ---
 ### Proyectos de Deep Learning
-[<img src="images/deep.jpg?raw=true"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
+[<img src="images/deep.jpg?raw=true" width="100" height="100" />](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Implementación de un modelo NN (Neural Network) para la predicción de la
 enfermedad de Parkinson en pacientes](/pdf/t1.pdf)
