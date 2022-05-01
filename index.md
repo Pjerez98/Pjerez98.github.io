@@ -3,8 +3,8 @@
 ---
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
-
-- [Desarrollo e implementación simulador de banco](/sample_page)
+<img src="images/image1.jpg?raw=true"/>
+- [Desarrollo e implementación simulador de banco](/images/images1.jpg)
 - [Implementación de algoritmo de optimización branch and bound](/pdf/sample_presentation.pdf)
 - [Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
 Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](http://example.com/)
@@ -15,16 +15,16 @@ Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](http://exa
 ### Proyectos de Deep Learning
 
 - [Implementación de un modelo NN (Neural Network) para la predicción de la
-enfermedad de Parkinson en pacientes](http://example.com/)
+enfermedad de Parkinson en pacientes](/pdf/t1.pdf)
 - [Implementación de un modelo LSTM (Long Short Term Memory) en el área de
-operaciones de control y fiscalización de la Armada de Chile](http://example.com/)
+operaciones de control y fiscalización de la Armada de Chile](/pdf/t2.pdf)
 - [Implementación de modelos Unet y ResUnet para la segmentación de imágenes
 y la detección de defectos en datasets asociados a la producción de acero y
-tumores cerebrales](http://example.com/)
+tumores cerebrales](/pdf/proyecto.pdf)
 - [Implementación de distintas arquitecturas CNN (Convolutional Neural Net-
 work) para el análisis y comparación de resultados en el estudio de suscepti-
 bilidad de incendios en la Región del Bío-Bío, en base al artículo científico “A
-Deep Learning Ensemble Model for Wildfire Susceptibility Mapping”](http://example.com/)
+Deep Learning Ensemble Model for Wildfire Susceptibility Mapping”](/pdf/c1.pdf)
 
 ---
 ### Proyectos de investigación
