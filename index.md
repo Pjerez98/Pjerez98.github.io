@@ -1,4 +1,4 @@
-## Portafolio de proyectos de programación
+## Perfil Profesional
 
 ---
 Mi perfil profesional actual es de Ingeniero Civil Industrial recién egresado orientado a Data Scientist Jr.
@@ -10,6 +10,9 @@ Objetivos específicos:
 - Realizar Diplomado de Data Science a partir del segundo semestre 2022.
 - Adquirir puesto de Data Scientist Jr o similar, y complementar labor en paralelo con conocimientos adquiridos en Diplomado de Data Science.
 - Participar en proyectos y/o investigaciones ligadas a Data Science. 
+
+---
+## Portafolio de proyectos de programación
 
 ---
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
