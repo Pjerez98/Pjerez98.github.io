@@ -1,20 +1,14 @@
 ## Portafolio de proyectos de programación
 
 ---
-Ingeniero Civil Industrial, Universidad de Concepción
-<br>
-Concepción, Chile
-<br><br>
-Mi perfil actual es de Ingeniero Civil Industrial recién egresado orientado a Data Scientist Jr.
+Mi perfil profesional actual es de Ingeniero Civil Industrial recién egresado orientado a Data Scientist Jr.
 
 Mi objetivo profesional es adquirir experiencia en el campo de la computación con especial interés en la programación aplicada a la inteligencia de negocios, mediante el análisis y procesamiento de datos, y la implementación de modelos de aprendizaje automático.
 
-Objetivos corto plazo:
+Objetivos específicos:
 - Realizar Diplomado de Data Science a partir del segundo semestre 2022.
-- Adquirir puesto de Data Scientist Jr o similar, y complementar en paralelo con Diplomado de Data Science.
-Objetivos largo plazo:
-- Orientar y desarrollar perfil profesional de Data Scientist
-- Liderar proyectos y/o investigaciones relacionadas a Data Science o problemáticas contingentes.
+- Adquirir puesto de Data Scientist Jr o similar, y complementar labor en paralelo con conocimientos adquiridos en Diplomado de Data Science.
+
 ---
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
 Optimización | Simulación | Machine Learning
