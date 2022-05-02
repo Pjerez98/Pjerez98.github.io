@@ -1,17 +1,24 @@
 title: Pablo Sebastián Jerez Agurto # your name (or website title) here
 logo: "/images/1646407536012.jpg?raw=true" # your photo (or logo) here
 description: > 
+
   Ingeniero Civil Industrial, Universidad de Concepción
+  <br>
+  24 años
   <br>
   Concepción, Chile
   <br><br>
   Contacto:
-  - <a href="https://www.linkedin.com/in/pablo-jerez-agurto-2551821ab/">Linkedin</a> 
-  - <a href="https://github.com/Pjerez98">Github</a> 
-  - <a href="/pdf/Pablo_Jerez_CV_.pdf">Curriculum Vitae (CV) </a> 
-  - pabloj98.jerez@gmail.com
-  - +56952302919
-  <br><br>
+  <a href="https://www.linkedin.com/in/pablo-jerez-agurto-2551821ab/">Linkedin</a> 
+  <br>
+  <a href="https://github.com/Pjerez98">Github</a> 
+  <br>
+  <a href="/pdf/Pablo_Jerez_CV_.pdf">Curriculum Vitae (CV) </a> 
+  <br>
+  <pabloj98.jerez@gmail.com>
+  <br>
+  +56952302919
+
   <!---<a href="/pdf/MT_Pablo_Jerez_FINAL.pdf">Revisa mi Tesis de Pregrado </a>--->
   
 theme: jekyll-theme-minimal
