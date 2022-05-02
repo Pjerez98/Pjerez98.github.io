@@ -4,6 +4,7 @@
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
 Ingeniería Industrial | Optimización | Simulación | Machine Learning
+
 [<img src="images/image1.jpeg?raw=true" width="500" height="300"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Desarrollo e implementación simulador de banco](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Simulador%20banco)
@@ -16,6 +17,7 @@ Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](https://gi
 ---
 ### Proyectos de Data Science
 Deep Learning | GIS 
+
 [<img src="images/ds2.jpg?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
 - [Implementación de un modelo NN (Neural Network) para la predicción de la
@@ -29,7 +31,8 @@ tumores cerebrales](/pdf/proyecto.pdf)
 
 ---
 ### Proyectos de investigación
-GIS | Simulación | Optimización | Preprocesamiento
+GIS | Simulación | Optimización 
+
 [<img src="images/inv.jpg?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Simulación%20Tsunami)
 - [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
 evaluación de planes de evacuación pre-tsunami en la comuna de Antofagasta](/pdf/Presentacion%20MT%20Pablo%20Jerez.pdf)
