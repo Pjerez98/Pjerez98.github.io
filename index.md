@@ -31,6 +31,7 @@ Deep Learning Ensemble Model for Wildfire Susceptibility Mapping”](/pdf/c1.pdf
 ---
 ### Proyectos de investigación
 GIS | Simulación | Optimización | Análisis de datos
+
 [<img src="images/inv.jpg?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Simulación%20Tsunami)
 - [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
 evaluación de planes de evacuación pre-tsunami en la comuna de Antofagasta](/pdf/Presentacion%20MT%20Pablo%20Jerez.pdf)
