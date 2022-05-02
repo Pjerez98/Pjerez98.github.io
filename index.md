@@ -16,20 +16,20 @@ Mi perfil profesional actual es de Ingeniero Civil Industrial recién egresado o
 
 ---
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
-Optimización | Simulación | Machine Learning
+Python | Optimización | Simulación | Machine Learning
 
 [<img src="images/image1.jpeg?raw=true" width="500" height="300"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
-- [Desarrollo e implementación simulador de banco](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Simulador%20banco) 
-- [Implementación de algoritmo de optimización branch and bound](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Branch%20and%20Bound)
-- [Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
-Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Metaheurísticas)
-- [Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Kmeans%20y%20Dbscan)
+- Desarrollo e implementación simulador de banco [ Ver código ](https://github.com/Pjerez98/Proyectos/blob/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Simulador%20banco/sim_banco.py) 
+- Implementación de algoritmo de optimización branch and bound [ Ver código ](https://github.com/Pjerez98/Proyectos/blob/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Branch%20and%20Bound/branch_and_bound.py)
+- Desarrollo e implementación de 3 metaheurísticas para el problema de optimización TSP (Traveling Salesman Problem); ILS (Iterated Local
+Search), GA (Genetic Algorithm) y un Algoritmo H Íbrido entre ambos [ Ver código ](https://github.com/Pjerez98/Proyectos/blob/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Metaheur%C3%ADsticas/ils_ag_hibrido.py)
+- Implementación de algoritmos básicos de machine learning no supervisados; kmeans y dbscan [ Ver código ](https://github.com/Pjerez98/Proyectos/blob/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial/Kmeans%20y%20Dbscan/kmeans_dbscan.py)
 <!---img src="images/dummy_thumbnail.jpg?raw=true"/>--->
 
 ---
 ### Proyectos de Data Science
-Deep Learning | GIS 
+Python | Deep Learning | GIS 
 
 [<img src="images/ds2.jpg?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
@@ -44,15 +44,15 @@ tumores cerebrales[ Ver reporte ](/pdf/proyecto.pdf) [ Ver código ](https://git
 
 ---
 ### Proyectos de investigación
-Simulación | GIS | Optimización 
+Python | Simulación | GIS | Optimización 
 
 [<img src="images/inv.jpg?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Simulación%20Tsunami)
-- [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
-evaluación de planes de evacuación pre-tsunami en la comuna de Antofagasta](/pdf/Presentacion%20MT%20Pablo%20Jerez.pdf)
+- Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
+evaluación de planes de evacuación pre-tsunami en la comuna de Antofagasta [ Ver presentación ](/pdf/Presentacion%20MT%20Pablo%20Jerez.pdf) 
 
  
 <!---<img src="images/Simulation_2.gif?raw=true" width="500" height="300" />--->
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!--- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> --->
 <!-- Remove above link if you don't want to attibute -->
