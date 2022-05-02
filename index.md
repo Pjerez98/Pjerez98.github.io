@@ -34,7 +34,7 @@ Deep Learning Ensemble Model for Wildfire Susceptibility Mapping”](/pdf/c1.pdf
 - [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
 evaluación de planes de evacuación pre-tsunami en la comuna de Antofagasta](/pdf/Presentacion%20MT%20Pablo%20Jerez.pdf)
 
---Simulador básico a modo de ejemplo:
+Simulador básico a modo de ejemplo:
 <img src="images/Simulation_2.gif?raw=true" width="500" height="300" />
 
 ---
