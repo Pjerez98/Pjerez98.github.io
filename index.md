@@ -3,7 +3,7 @@
 ---
 
 ### Proyectos de programación en Python aplicados a la Ingeniería Industrial: primeros pasos en la programación
-Ingeniería Industrial | Optimización | Simulación | Machine Learning
+Optimización | Simulación | Machine Learning
 
 [<img src="images/image1.jpeg?raw=true" width="500" height="300"/>](https://github.com/Pjerez98/Proyectos/tree/master/Programaci%C3%B3n%20Aplicada%20a%20la%20Ingenier%C3%ADa%20Industrial)
 
@@ -31,7 +31,7 @@ tumores cerebrales](/pdf/proyecto.pdf)
 
 ---
 ### Proyectos de investigación
-GIS | Simulación | Optimización 
+Simulación | GIS | Optimización 
 
 [<img src="images/inv.jpg?raw=true" width="500" height="300" />](https://github.com/Pjerez98/Proyectos/tree/master/Simulación%20Tsunami)
 - [Un Modelo de Simulación Discreta basada en Población Sintética y GIS para la
