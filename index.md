@@ -3,10 +3,10 @@
 ---
 Mi perfil profesional actual es de Ingeniero Civil Industrial recién egresado orientado a Data Scientist Jr.
 
-Objetivo general:
+#### Objetivo general:
 - Adquirir experiencia en el campo de la computación con especial interés en la programación aplicada a la inteligencia de negocios, mediante el análisis y procesamiento de datos, y la implementación de modelos de aprendizaje automático.
 
-Objetivos específicos:
+#### Objetivos específicos:
 - Realizar Diplomado de Data Science a partir del segundo semestre 2022.
 - Adquirir puesto de Data Scientist Jr o similar, y complementar labor en paralelo con conocimientos adquiridos en Diplomado de Data Science.
 - Participar en proyectos y/o investigaciones ligadas a Data Science. 
